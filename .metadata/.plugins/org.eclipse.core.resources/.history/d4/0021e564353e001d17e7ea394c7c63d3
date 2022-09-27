@@ -1,0 +1,5 @@
+package com.consumer.springboot;
+
+public class SpringbootConsumerApplication {
+
+}

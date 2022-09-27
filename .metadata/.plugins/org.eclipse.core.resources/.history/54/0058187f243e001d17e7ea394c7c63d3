@@ -1,0 +1,5 @@
+package com.producer.springboot;
+
+public class WikimediaChangesHandler {
+
+}

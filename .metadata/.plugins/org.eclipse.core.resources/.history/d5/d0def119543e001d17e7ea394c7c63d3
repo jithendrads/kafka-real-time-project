@@ -1,0 +1,5 @@
+package com.consumer.springboot.entity;
+
+public class WikimediaData {
+
+}

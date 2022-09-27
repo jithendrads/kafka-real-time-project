@@ -1,0 +1,2 @@
+spring.kafka.consumer.bootstrap-servers: LAPTOP-N0N59NU9.mshome.net:9092
+spring.kafka.consumer.group-id: myGroup
